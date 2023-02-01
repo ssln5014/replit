@@ -160,7 +160,6 @@ run_xray() {
     green "path路径：/${user_uuid}-ss"
     green "tls：开启"
     echo ""
-    yellow "更多项目，请关注：小御坂的破站"
     tail -f
 }
 
